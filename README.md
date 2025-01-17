@@ -9,10 +9,3 @@ Responsive design that works across devices
 Phone number formatting validation
 Birth date validation with proper range checking
 Dropdown menu for favorite pastime selection
-
-# Project Structure
-├── index.html          # Main HTML file containing form structure
-├── style.css          # Styling and responsive design
-└── script.js          # Form validation and calendar logic
-
-
